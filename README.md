@@ -3,7 +3,11 @@
 
 [Website ](http://www.lastos.org)
 
-These are some tips for Windows. 
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
+
+## These are some tips for Windows. 
 
 
 These files are created using Obsidian
