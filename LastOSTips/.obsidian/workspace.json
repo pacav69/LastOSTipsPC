@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eb07ce1d1a4c65c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps addin chrome/PushBullet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows tip 1/Windows Tip no 1.md",
+                "file": "Apps addin chrome/PushBullet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows tip 1/Windows Tip no 1.md",
+                "file": "Apps addin chrome/PushBullet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows tip 1/Windows Tip no 1.md"
+                "file": "Apps addin chrome/PushBullet.md"
               }
             }
           }
@@ -148,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "212446db9255f362",
+  "active": "eb07ce1d1a4c65c9",
   "lastOpenFiles": [
+    "Windows tip 1/Windows Tip no 1.md",
     "Apps addin chrome/PushBullet.md"
   ]
 }
