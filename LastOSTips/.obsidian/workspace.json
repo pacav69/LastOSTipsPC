@@ -51,7 +51,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github desktop.md",
+                "file": "Google drive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c8ce3f6a9df40b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github desktop.md",
+                "file": "Windows 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github desktop.md",
+                "file": "Windows 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github desktop.md"
+                "file": "Windows 11.md"
               }
             }
           }
@@ -197,9 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "831f41aed5d0cd02",
+  "active": "9c8ce3f6a9df40b8",
   "lastOpenFiles": [
     "Google drive.md",
+    "Github desktop.md",
     "Windows tip 1/Windows 11 Download.md",
     "Windows tip 1/Windows Tip no 1.md",
     "Apps addin chrome/PushBullet.md"
