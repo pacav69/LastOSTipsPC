@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows tip 1/Windows Tip no 1.md",
+                "file": "Windows tip 1/Windows Tip.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,18 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "Windows tip 1/Windows 11 Download.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "911a7e4b47a81147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google drive.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows 11.md",
+                "file": "Windows tip 1/Windows Tip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows 11.md",
+                "file": "Windows tip 1/Windows Tip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows 11.md"
+                "file": "Windows tip 1/Windows Tip.md"
               }
             }
           }
@@ -209,12 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8ce3f6a9df40b8",
+  "active": "212446db9255f362",
   "lastOpenFiles": [
-    "Google drive.md",
-    "Github desktop.md",
     "Windows tip 1/Windows 11 Download.md",
-    "Windows tip 1/Windows Tip no 1.md",
+    "Google drive.md",
+    "Windows 11.md",
+    "Github desktop.md",
+    "Windows tip 1/Windows Tip.md",
     "Apps addin chrome/PushBullet.md"
   ]
 }
