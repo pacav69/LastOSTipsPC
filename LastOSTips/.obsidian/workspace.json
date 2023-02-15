@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "a3821305d8522034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Chrome standalone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "831f41aed5d0cd02",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github desktop.md",
+                "file": "Google Chrome standalone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github desktop.md",
+                "file": "Google Chrome standalone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github desktop.md"
+                "file": "Google Chrome standalone.md"
               }
             }
           }
@@ -197,13 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b562092d9c9c929",
+  "active": "a3821305d8522034",
   "lastOpenFiles": [
+    "Github desktop.md",
     "Windows tip 1/Windows Tip.md",
     "Windows tip 1/Windows 11 Download.md",
     "Google drive.md",
     "Windows 11.md",
-    "Github desktop.md",
     "Apps addin chrome/PushBullet.md"
   ]
 }
