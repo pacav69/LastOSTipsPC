@@ -12,3 +12,5 @@ The Google Chrome offline installer will now be downloaded and will have a name 
 -   Double-click on the  ChromeStandaloneSetup64.exe executable to install the browser.
 
 Once Chrome is installed and connected to the Internet, you should then click on the Chrome menu and select **Help** -> **About Google Chrome** to download any available updates and install them.
+
+ref [here](https://www.bleepingcomputer.com/news/google/how-to-download-google-chromes-offline-installer/)
