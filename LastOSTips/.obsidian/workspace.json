@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Chrome standalone.md",
+                "file": "Github desktop.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Chrome standalone.md",
+                "file": "Github desktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Chrome standalone.md",
+                "file": "Github desktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Chrome standalone.md"
+                "file": "Github desktop.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "a3821305d8522034",
   "lastOpenFiles": [
-    "Github desktop.md",
     "Google Chrome standalone.md",
+    "Github desktop.md",
     "Windows tip 1/Windows Tip.md",
     "Windows tip 1/Windows 11 Download.md",
     "Google drive.md",
