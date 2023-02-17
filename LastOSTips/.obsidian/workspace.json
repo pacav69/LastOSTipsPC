@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "7cf3044824767615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio Code tip2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "831f41aed5d0cd02",
             "type": "leaf",
             "state": {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Studio Code.md",
+                "file": "Visual Studio Code tip2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Studio Code.md",
+                "file": "Visual Studio Code tip2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Studio Code.md"
+                "file": "Visual Studio Code tip2.md"
               }
             }
           }
@@ -221,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dd9b9fcee0da4ab",
+  "active": "7cf3044824767615",
   "lastOpenFiles": [
-    "Windows 11.md",
     "Visual Studio Code.md",
+    "Windows 11.md",
     "Github desktop.md",
     "Google Chrome standalone.md",
     "Windows tip 1/Windows Tip.md",
