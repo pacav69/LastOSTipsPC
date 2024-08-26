@@ -15,12 +15,19 @@ then copy this file to the following directory:
 where Username is replaced with you user account
 
 Then open up a file with SciTE editor
-select from the main window Tools-->SciTE Config
-select the Editor colors
-at the bottom of the window d=select change theme
-this will display a drop list 
+select from the main window Tools-->SciTE Config as shown in figure 1
+![changing themes](../../images/autoit/chanhingthemes.png)
+figure 1
+select the tab Editor colors
+at the bottom of the window d=select change themeas shown in figure 2
+![alt text](../../images/autoit/selectingthemepointing.png)
+figure 2
+this will display a drop down list 
 select the desired theme or the one just created MyTheme
 press ok
 click save and apply
 exit
-if you have code already open you can see the changes
+if you have code already open you can see the changes as shown in figure 3
+
+![alt text](../../images/autoit/darkthemecolors.png)
+figure 3
