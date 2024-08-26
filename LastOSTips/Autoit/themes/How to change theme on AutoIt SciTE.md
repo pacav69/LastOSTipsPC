@@ -1,4 +1,4 @@
-# How to changes themes on AutoIt SciTE
+# How to change themes on AutoIt SciTE
 There are a number of themes included with the app
 if you wish to create a custom theme follow these instructions
 
