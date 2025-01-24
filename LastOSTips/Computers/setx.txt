@@ -1,0 +1,18 @@
+using setx
+
+Run cmd as administrator, then:
+
+setx /M PATH "%PATH%;<your-new-path>"
+The /M option sets the variable at SYSTEM scope. The default behaviour is to set it for the USER.
+
+example
+
+setx /M PATH "%PATH%;%ppApps%\x16emu"
+
+The truncation happens because when you echo %PATH% you get the concatenation of SYSTEM and USER values so, when you add it in your second argument to setx, the command will try to fit the contents of both SYSTEM and USER within the USER var. When you echo again, the result will be doubled.
+
+The /M option requires administrator privilege, so you need to open your terminal with "run as administrator" otherwise setx will fail with "access to registry path is denied".
+
+Note: You won't see the new value when you echo %PATH% just after setting it this way, you need to close cmd and open again.
+
+If you want to check the actual values stored in registry check this question.

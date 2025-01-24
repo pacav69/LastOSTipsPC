@@ -1,0 +1,10 @@
+
+
+x16emu -scale 2 -quality best -debug 
+
+
+
+-scale {1|2|3|4}
+        Scale output to an integer multiple of 640x480
+-quality {nearest|linear|best}
+        Scaling algorithm quality

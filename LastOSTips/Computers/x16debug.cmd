@@ -1,0 +1,1 @@
+x16emu -scale 2 -quality best -debug 
