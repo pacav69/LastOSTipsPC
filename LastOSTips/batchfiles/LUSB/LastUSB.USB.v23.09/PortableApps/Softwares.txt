@@ -1,0 +1,12 @@
+AutorunsPortable
+BIOS Beep Codes Verifier 1.0.3.1036
+Dell 64BIT BIOS Flash Utility 3.3.1, A03
+disk2vhd32
+DTaskManagerPortable
+Error Lookup
+RecuvaPortable
+UEFI BIOS Updater 1.69.17.2
+UEFITool v0.28.0
+VHD2Disk
+VHD_manager_v1.4
+VHD_Tool++(v0.6.0.5)-01

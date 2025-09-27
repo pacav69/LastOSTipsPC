@@ -1,0 +1,697 @@
+[2021/11/29 06:15:25.031] 
+##################################################################################
+######################### Ventoy2DiskX86 1.0.0.3 (1.0.61) #########################
+##################################################################################
+[2021/11/29 06:15:25.032] Current directory:<G>
+[2021/11/29 06:15:25.038] id=4712/8440
+[2021/11/29 06:15:25.039] PPath:<C:\Windows\explorer.exe>
+[2021/11/29 06:15:25.039] PSize:<4865376 4751KB>
+[2021/11/29 06:15:25.039] Lunch main process 0
+[2021/11/29 06:15:25.040] Control Flag: 0 1 1
+[2021/11/29 06:15:25.041] Windows Version: <<Windows 10 Pro, 64-bit (Build 19043.1348)>>
+[2021/11/29 06:15:25.041] 
+===================== Enum All PhyDrives =====================
+[2021/11/29 06:15:25.042] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/11/29 06:15:25.042] RegQueryValueExA <Count> ret:0  Size:4 Value:6
+[2021/11/29 06:15:25.042] GetPhysicalDriveCount: 6
+[2021/11/29 06:15:25.042] Logical Drives: 0x180fc
+[2021/11/29 06:15:25.043] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:15:25.043] C --> 3
+[2021/11/29 06:15:25.043] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:15:25.043] D --> 2
+[2021/11/29 06:15:25.044] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:15:25.044] E --> 0
+[2021/11/29 06:15:25.044] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:15:25.044] F --> 4
+[2021/11/29 06:15:25.045] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:15:25.045] G --> 1
+[2021/11/29 06:15:25.045] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:15:25.046] H --> 5
+[2021/11/29 06:15:25.046] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:15:25.046] P --> -1
+[2021/11/29 06:15:25.046] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:15:25.047] Q --> -1
+[2021/11/29 06:15:25.049] Create file Handle:000001C4 \\.\PhysicalDrive0 status:0
+[2021/11/29 06:15:25.049] PHYSICALDRIVE0 size 500107862016 bytes
+[2021/11/29 06:15:25.051] Create file Handle:000001C4 \\.\PhysicalDrive1 status:0
+[2021/11/29 06:15:25.051] PHYSICALDRIVE1 size 256060514304 bytes
+[2021/11/29 06:15:25.053] Create file Handle:000001C4 \\.\PhysicalDrive2 status:0
+[2021/11/29 06:15:25.055] PHYSICALDRIVE2 size 1000204886016 bytes
+[2021/11/29 06:15:25.056] Create file Handle:000001C4 \\.\PhysicalDrive3 status:0
+[2021/11/29 06:15:25.056] PHYSICALDRIVE3 size 1000204886016 bytes
+[2021/11/29 06:15:25.058] Create file Handle:000001C4 \\.\PhysicalDrive4 status:0
+[2021/11/29 06:15:25.058] PHYSICALDRIVE4 size 1000204886016 bytes
+[2021/11/29 06:15:25.060] Create file Handle:000001C4 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:15:25.061] PHYSICALDRIVE5 size 30765219840 bytes
+[2021/11/29 06:15:25.061] PhyDrv:0 BusType:SATA Removable:0 Size:512GB(500107862016) Name: Samsung SSD 840 Series
+[2021/11/29 06:15:25.061] PhyDrv:1 BusType:SATA Removable:0 Size:256GB(256060514304) Name: M4-CT256M4SSD2
+[2021/11/29 06:15:25.061] PhyDrv:2 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name: SanDisk Ultra 3D NVMe
+[2021/11/29 06:15:25.062] PhyDrv:3 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name:NVMe Samsung SSD 970
+[2021/11/29 06:15:25.062] PhyDrv:4 BusType:SATA Removable:0 Size:1024GB(1000204886016) Name: HGST HTS721010A9E630
+[2021/11/29 06:15:25.062] PhyDrv:5 BusType:USB  Removable:1 Size:32GB(30765219840) Name:SanDisk Cruzer Snap
+[2021/11/29 06:15:25.062] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:15:25.063] Logical Drive:C  ===> PhyDrive:3
+[2021/11/29 06:15:25.063] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:15:25.063] Logical Drive:D  ===> PhyDrive:2
+[2021/11/29 06:15:25.063] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:15:25.064] Logical Drive:E  ===> PhyDrive:0
+[2021/11/29 06:15:25.064] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:15:25.064] Logical Drive:F  ===> PhyDrive:4
+[2021/11/29 06:15:25.065] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:15:25.065] Logical Drive:G  ===> PhyDrive:1
+[2021/11/29 06:15:25.065] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:15:25.066] Logical Drive:H  ===> PhyDrive:5
+[2021/11/29 06:15:25.066] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:15:25.066] Logical Drive:P  ===> PhyDrive:-1
+[2021/11/29 06:15:25.067] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:15:25.067] Logical Drive:Q  ===> PhyDrive:-1
+[2021/11/29 06:15:25.069] Create file Handle:000000E4 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:15:25.070] Read MBR Ret:1 Size:512 code:183
+[2021/11/29 06:15:25.071] =========== Disk5 GPT Partition 1 ============
+[2021/11/29 06:15:25.072] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:15:25.072] PartTbl.PartGuid = {665e7254-65ce-4159-acb9-5f98e73d94b5}
+[2021/11/29 06:15:25.072] PartTbl.StartLBA = 2048
+[2021/11/29 06:15:25.072] PartTbl.LastLBA = 60022743
+[2021/11/29 06:15:25.072] PartTbl.Attribute = 0x0
+[2021/11/29 06:15:25.073] PartTbl.Name = Ventoy
+[2021/11/29 06:15:25.073] =========== Disk5 GPT Partition 2 ============
+[2021/11/29 06:15:25.073] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:15:25.073] PartTbl.PartGuid = {b55fb615-2758-4f86-b9bb-68255ae558a5}
+[2021/11/29 06:15:25.073] PartTbl.StartLBA = 60022744
+[2021/11/29 06:15:25.074] PartTbl.LastLBA = 60088279
+[2021/11/29 06:15:25.074] PartTbl.Attribute = 0x8000000000000001
+[2021/11/29 06:15:25.074] PartTbl.Name = VTOYEFI
+[2021/11/29 06:15:25.074] PhysicalDrive5 is ventoy disk
+[2021/11/29 06:15:25.075] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:25.076] [0] CreateFileA \\.\PhysicalDrive5 code:0 000000E4
+[2021/11/29 06:15:25.077] Parse FAT fs...
+[2021/11/29 06:15:25.078] attach media success...
+[2021/11/29 06:15:25.091] GetVentoyVerInPhyDrive rc=0...
+[2021/11/29 06:15:25.092] VentoyVerInPhyDrive 5 is <1.0.46>...
+[2021/11/29 06:15:25.094] PhyDrive 5 is Ventoy Disk ver:1.0.46 SecureBoot:1
+[2021/11/29 06:15:25.094] < Samsung SSD 840 Series> is filtered for not USB type.
+[2021/11/29 06:15:25.094] < M4-CT256M4SSD2> is filtered for not USB type.
+[2021/11/29 06:15:25.094] < SanDisk Ultra 3D NVMe> is filtered for not USB type.
+[2021/11/29 06:15:25.095] <NVMe Samsung SSD 970> is filtered for not USB type.
+[2021/11/29 06:15:25.095] < HGST HTS721010A9E630> is filtered for not USB type.
+[2021/11/29 06:15:25.165] Load languages from json file ...
+[2021/11/29 06:15:25.166] language json file len:180106 json parse:0
+[2021/11/29 06:15:25.167] Total 41 languages ...
+[2021/11/29 06:15:25.219] Combox select change, update secure boot option: 0 1
+[2021/11/29 06:15:32.708] #####################################################
+[2021/11/29 06:15:32.709] UpdateVentoy2PhyDrive try1 GPT PhyDrive5 <<SanDisk Cruzer Snap 32GB>>
+[2021/11/29 06:15:32.709] #####################################################
+[2021/11/29 06:15:32.710] Lock disk for umount ............................ 
+[2021/11/29 06:15:32.711] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:32.713] [0] CreateFileA \\.\PhysicalDrive5 code:0 00000320
+[2021/11/29 06:15:32.713] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:15:32.715] GPT StartSector in PartTbl:60022744
+[2021/11/29 06:15:32.715] GPT Reserved Disk Space:0 MB
+[2021/11/29 06:15:32.716] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:15:32.716] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:15:32.716] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:15:32.717] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:15:32.717] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:15:32.718] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:15:32.718] H: is belong to phydrive5
+[2021/11/29 06:15:32.718] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:15:32.719] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:15:32.719] TryId=1 EFI GPT partition type is 0x8000000000000001
+[2021/11/29 06:15:32.720] Change GPT partition type to ESP
+[2021/11/29 06:15:37.778] VDS init OK, service 00C7EA9C
+[2021/11/29 06:15:37.808] Callback 2 process for disk2 <\\?\PhysicalDrive5>
+[2021/11/29 06:15:37.869] VDS_ChangeVtoyEFI2ESP 5 ret:1 (SUCCESS)
+[2021/11/29 06:15:40.880] Lock disk for update ............................ 
+[2021/11/29 06:15:40.880] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:40.882] [0] CreateFileA \\.\PhysicalDrive5 code:0 00000384
+[2021/11/29 06:15:40.882] Opened \\.\PhysicalDrive5 for exclusive write access
+[2021/11/29 06:15:40.883] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:15:40.884] Lock volume for update .......................... 
+[2021/11/29 06:15:40.885] Volume not found, maybe not supported
+[2021/11/29 06:15:40.885] Try write part2 bRet:0 dwSize:0 code:5
+[2021/11/29 06:15:40.885] TryWritePart2 agagin ...
+[2021/11/29 06:15:43.887] Try write part2 bRet:0 dwSize:0 code:5
+[2021/11/29 06:15:43.887] TryWritePart2 failed ....
+[2021/11/29 06:15:43.888] FindProcessOccupyDisk for PhyDrive 5
+[2021/11/29 06:15:43.889] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:43.931] handles->NumberOfHandles = 111898
+[2021/11/29 06:15:43.931] NOTE: Could not identify the process(es) or service(s) accessing \Device\Harddisk5\DR6
+[2021/11/29 06:15:43.932] Recover GPT partition type to basic
+[2021/11/29 06:15:43.963] VDS init OK, service 00CFEE5C
+[2021/11/29 06:15:43.989] Callback 2 process for disk2 <\\?\PhysicalDrive5>
+[2021/11/29 06:15:44.030] VDS_ChangeVtoyEFI2Basic 5 ret:1 (SUCCESS)
+[2021/11/29 06:15:44.031] Change EFI partition attr 0 <0x8000000000000001> to <0xc000000000000001>
+[2021/11/29 06:15:44.033] VDS init OK, service 00CFE79C
+[2021/11/29 06:15:44.060] Callback 1 process for disk <\\?\PhysicalDrive5>
+[2021/11/29 06:15:44.060] ** Partition 2 (offset: 30731644928, size: 33554432, Attr:0x8000000000000001)
+[2021/11/29 06:15:44.092] Change this partitions attribute success
+[2021/11/29 06:15:44.092] VDS_ChangeVtoyEFIAttr 5 (offset:30731644928) ret:1 (SUCCESS)
+[2021/11/29 06:15:44.092] Change EFI partition attr success
+[2021/11/29 06:15:44.093] This time update failed, now wait and retry...
+[2021/11/29 06:15:48.105] Now retry to update...
+[2021/11/29 06:15:48.105] #####################################################
+[2021/11/29 06:15:48.105] UpdateVentoy2PhyDrive try2 GPT PhyDrive5 <<SanDisk Cruzer Snap 32GB>>
+[2021/11/29 06:15:48.105] #####################################################
+[2021/11/29 06:15:48.107] Lock disk for umount ............................ 
+[2021/11/29 06:15:48.107] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:48.109] [0] CreateFileA \\.\PhysicalDrive5 code:0 0000038C
+[2021/11/29 06:15:48.109] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:15:48.111] GPT StartSector in PartTbl:60022744
+[2021/11/29 06:15:48.111] GPT Reserved Disk Space:0 MB
+[2021/11/29 06:15:48.113] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:15:48.113] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:15:48.113] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:15:48.114] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:15:48.114] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:15:48.114] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:15:48.115] H: is belong to phydrive5
+[2021/11/29 06:15:48.115] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:15:48.115] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:15:48.116] TryId=2 EFI GPT partition type is 0xc000000000000001
+[2021/11/29 06:15:48.117] Change GPT partition attribute
+[2021/11/29 06:15:48.120] VDS init OK, service 00D0D90C
+[2021/11/29 06:15:48.145] Callback 1 process for disk <\\?\PhysicalDrive5>
+[2021/11/29 06:15:48.145] ** Partition 2 (offset: 30731644928, size: 33554432, Attr:0xc000000000000001)
+[2021/11/29 06:15:48.180] Change this partitions attribute success
+[2021/11/29 06:15:48.180] VDS_ChangeVtoyEFIAttr 5 (offset:30731644928) ret:1 (SUCCESS)
+[2021/11/29 06:15:50.184] Lock disk for update ............................ 
+[2021/11/29 06:15:50.185] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:15:50.188] [0] CreateFileA \\.\PhysicalDrive5 code:0 00000394
+[2021/11/29 06:15:50.188] Opened \\.\PhysicalDrive5 for exclusive write access
+[2021/11/29 06:15:50.189] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:15:50.191] Lock volume for update .......................... 
+[2021/11/29 06:15:50.192] GetVentoyVolumeName PhyDrive 5 SectorStart:60022744 PartOffset:30731644928
+[2021/11/29 06:15:50.192] Find volume:\\?\Volume{58ea8831-0000-0000-0000-100000000000}\
+[2021/11/29 06:15:50.193] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.193] NumberOfDiskExtents:1 DiskNumber:0
+[2021/11/29 06:15:50.193] This volume DiskNumber:0 offset:1048576
+[2021/11/29 06:15:50.194] Find volume:\\?\Volume{c2bb1660-0000-0000-0000-200000000000}\
+[2021/11/29 06:15:50.194] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.194] NumberOfDiskExtents:1 DiskNumber:1
+[2021/11/29 06:15:50.195] This volume DiskNumber:1 offset:2097152
+[2021/11/29 06:15:50.195] Find volume:\\?\Volume{c606431a-0000-0000-0000-100000000000}\
+[2021/11/29 06:15:50.195] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.196] NumberOfDiskExtents:1 DiskNumber:2
+[2021/11/29 06:15:50.196] This volume DiskNumber:2 offset:1048576
+[2021/11/29 06:15:50.196] Find volume:\\?\Volume{1c1b6373-0260-4270-bd91-f3d1294c0b57}\
+[2021/11/29 06:15:50.197] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.197] NumberOfDiskExtents:1 DiskNumber:3
+[2021/11/29 06:15:50.197] This volume DiskNumber:3 offset:122683392
+[2021/11/29 06:15:50.198] Find volume:\\?\Volume{a6aac2fe-8b17-4808-8d68-ed0f26465a5f}\
+[2021/11/29 06:15:50.198] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.198] NumberOfDiskExtents:1 DiskNumber:3
+[2021/11/29 06:15:50.199] This volume DiskNumber:3 offset:978700992512
+[2021/11/29 06:15:50.199] Find volume:\\?\Volume{644dae1f-0000-0000-0000-100000000000}\
+[2021/11/29 06:15:50.199] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.200] NumberOfDiskExtents:1 DiskNumber:4
+[2021/11/29 06:15:50.200] This volume DiskNumber:4 offset:1048576
+[2021/11/29 06:15:50.201] Find volume:\\?\Volume{0880ff70-5110-11ec-9869-c8e265ce4928}\
+[2021/11/29 06:15:50.202] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.202] NumberOfDiskExtents:1 DiskNumber:5
+[2021/11/29 06:15:50.202] This volume DiskNumber:5 offset:1048576
+[2021/11/29 06:15:50.203] Find volume:\\?\Volume{0880ff71-5110-11ec-9869-c8e265ce4928}\
+[2021/11/29 06:15:50.203] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:15:50.203] NumberOfDiskExtents:1 DiskNumber:5
+[2021/11/29 06:15:50.204] This volume DiskNumber:5 offset:30731644928
+[2021/11/29 06:15:50.204] This volume match
+[2021/11/29 06:15:50.204] GetVentoyVolumeName return 0
+[2021/11/29 06:15:50.204] Now lock and dismount volume <\\?\Volume{0880ff71-5110-11ec-9869-c8e265ce4928}>
+[2021/11/29 06:15:50.207] FSCTL_LOCK_VOLUME bRet:1 code:0
+[2021/11/29 06:15:50.209] FSCTL_DISMOUNT_VOLUME bRet:1 code:183
+[2021/11/29 06:15:50.220] Try write part2 bRet:1 dwSize:16384 code:183
+[2021/11/29 06:15:50.222] Write Ventoy to disk ............................ 
+[2021/11/29 06:15:50.223] FormatPart2Fat 60022744...
+[2021/11/29 06:15:50.229] Malloc whole img buffer success, now decompress ...
+[2021/11/29 06:15:51.439] decompress finished success
+[2021/11/29 06:15:51.439] VentoyProcSecureBoot 1 ...
+[2021/11/29 06:15:51.440] Secure boot is enabled ...
+[2021/11/29 06:15:51.638] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:51.831] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:51.873] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:51.915] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:51.956] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:51.997] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.039] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.080] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.122] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.164] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.308] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.349] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.390] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.431] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.472] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.513] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.722] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:52.908] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.011] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.052] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.092] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.237] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.278] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.318] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.360] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.400] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.441] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.481] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.523] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.564] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.606] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.647] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.680] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.710] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.739] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.769] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.800] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.830] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.862] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.898] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.929] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.961] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:53.993] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.025] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.058] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.090] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.122] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.153] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.185] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.216] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.248] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.279] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.310] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.341] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.373] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.404] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.436] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.467] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.506] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.537] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.569] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.601] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.633] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.666] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:15:54.674] FSCTL_UNLOCK_VOLUME bRet:1 code:183
+[2021/11/29 06:15:54.674] Updating Boot Image ............................. 
+[2021/11/29 06:15:54.675] WriteGrubStage1ToPhyDrive ...
+[2021/11/29 06:15:54.696] Write GPT stage1 ...
+[2021/11/29 06:15:54.757] WriteFile Ret:1 dwSize:1031168 ErrCode:183
+[2021/11/29 06:15:54.758] Write resv data ret:1 dwSize:4096 Error:183
+[2021/11/29 06:15:54.758] Copy boot img success
+[2021/11/29 06:15:54.759] Boot image has no difference, no need to write.
+[2021/11/29 06:15:54.777] OK
+[2021/11/29 06:15:54.779] Change EFI partition attr 1 <0xc000000000000001> to <0xc000000000000001>
+[2021/11/29 06:15:54.813] VDS init OK, service 00D2B27C
+[2021/11/29 06:15:56.104] Callback 1 process for disk <\\?\PhysicalDrive5>
+[2021/11/29 06:15:56.104] ** Partition 2 (offset: 30731644928, size: 33554432, Attr:0x8000000000000001)
+[2021/11/29 06:15:56.187] Change this partitions attribute success
+[2021/11/29 06:15:56.187] VDS_ChangeVtoyEFIAttr 5 (offset:30731644928) ret:1 (SUCCESS)
+[2021/11/29 06:15:56.188] Change EFI partition attr success
+[2021/11/29 06:15:58.171] Combox select change, update secure boot option: 1 1
+[2021/11/29 06:16:02.179] #####################################################
+[2021/11/29 06:16:02.179] UpdateVentoy2PhyDrive try1 GPT PhyDrive5 <<SanDisk Cruzer Snap 32GB>>
+[2021/11/29 06:16:02.179] #####################################################
+[2021/11/29 06:16:02.182] Lock disk for umount ............................ 
+[2021/11/29 06:16:02.182] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:02.185] [0] CreateFileA \\.\PhysicalDrive5 code:0 000003DC
+[2021/11/29 06:16:02.186] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:16:02.190] GPT StartSector in PartTbl:60022744
+[2021/11/29 06:16:02.190] GPT Reserved Disk Space:0 MB
+[2021/11/29 06:16:02.191] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:16:02.192] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:16:02.192] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:16:02.192] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:16:02.192] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:16:02.193] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:16:02.193] H: is belong to phydrive5
+[2021/11/29 06:16:02.194] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:16:02.194] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:16:02.195] TryId=1 EFI GPT partition type is 0xc000000000000001
+[2021/11/29 06:16:02.196] Change GPT partition type to ESP
+[2021/11/29 06:16:03.518] VDS init OK, service 00C6C59C
+[2021/11/29 06:16:03.552] Callback 2 process for disk2 <\\?\PhysicalDrive5>
+[2021/11/29 06:16:03.580] VDS_ChangeVtoyEFI2ESP 5 ret:1 (SUCCESS)
+[2021/11/29 06:16:06.588] Lock disk for update ............................ 
+[2021/11/29 06:16:06.588] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:06.590] [0] CreateFileA \\.\PhysicalDrive5 code:0 000003AC
+[2021/11/29 06:16:06.591] Opened \\.\PhysicalDrive5 for exclusive write access
+[2021/11/29 06:16:06.591] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:16:06.593] Lock volume for update .......................... 
+[2021/11/29 06:16:06.594] Volume not found, maybe not supported
+[2021/11/29 06:16:06.594] Try write part2 bRet:0 dwSize:0 code:5
+[2021/11/29 06:16:06.594] TryWritePart2 agagin ...
+[2021/11/29 06:16:09.606] Try write part2 bRet:0 dwSize:0 code:5
+[2021/11/29 06:16:09.606] TryWritePart2 failed ....
+[2021/11/29 06:16:09.608] FindProcessOccupyDisk for PhyDrive 5
+[2021/11/29 06:16:09.608] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:09.657] handles->NumberOfHandles = 111822
+[2021/11/29 06:16:09.657] NOTE: Could not identify the process(es) or service(s) accessing \Device\Harddisk5\DR6
+[2021/11/29 06:16:09.658] Recover GPT partition type to basic
+[2021/11/29 06:16:09.699] VDS init OK, service 00C6BE04
+[2021/11/29 06:16:09.735] Callback 2 process for disk2 <\\?\PhysicalDrive5>
+[2021/11/29 06:16:09.752] VDS_ChangeVtoyEFI2Basic 5 ret:1 (SUCCESS)
+[2021/11/29 06:16:09.752] This time update failed, now wait and retry...
+[2021/11/29 06:16:13.764] Now retry to update...
+[2021/11/29 06:16:13.764] #####################################################
+[2021/11/29 06:16:13.764] UpdateVentoy2PhyDrive try2 GPT PhyDrive5 <<SanDisk Cruzer Snap 32GB>>
+[2021/11/29 06:16:13.764] #####################################################
+[2021/11/29 06:16:13.766] Lock disk for umount ............................ 
+[2021/11/29 06:16:13.766] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:13.768] [0] CreateFileA \\.\PhysicalDrive5 code:0 000003B0
+[2021/11/29 06:16:13.769] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:16:13.771] GPT StartSector in PartTbl:60022744
+[2021/11/29 06:16:13.771] GPT Reserved Disk Space:0 MB
+[2021/11/29 06:16:13.772] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:16:13.772] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:16:13.772] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:16:13.773] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:16:13.773] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:16:13.774] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:16:13.774] H: is belong to phydrive5
+[2021/11/29 06:16:13.774] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:16:13.774] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:16:13.775] TryId=2 EFI GPT partition type is 0xc000000000000001
+[2021/11/29 06:16:13.776] Change GPT partition attribute
+[2021/11/29 06:16:13.779] VDS init OK, service 00CF2CAC
+[2021/11/29 06:16:13.811] Callback 1 process for disk <\\?\PhysicalDrive5>
+[2021/11/29 06:16:13.812] ** Partition 2 (offset: 30731644928, size: 33554432, Attr:0xc000000000000001)
+[2021/11/29 06:16:13.828] Change this partitions attribute success
+[2021/11/29 06:16:13.828] VDS_ChangeVtoyEFIAttr 5 (offset:30731644928) ret:1 (SUCCESS)
+[2021/11/29 06:16:15.844] Lock disk for update ............................ 
+[2021/11/29 06:16:15.845] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:15.847] [0] CreateFileA \\.\PhysicalDrive5 code:0 000003EC
+[2021/11/29 06:16:15.848] Opened \\.\PhysicalDrive5 for exclusive write access
+[2021/11/29 06:16:15.848] FSCTL_LOCK_VOLUME success
+[2021/11/29 06:16:15.850] Lock volume for update .......................... 
+[2021/11/29 06:16:15.851] GetVentoyVolumeName PhyDrive 5 SectorStart:60022744 PartOffset:30731644928
+[2021/11/29 06:16:15.851] Find volume:\\?\Volume{58ea8831-0000-0000-0000-100000000000}\
+[2021/11/29 06:16:15.851] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.852] NumberOfDiskExtents:1 DiskNumber:0
+[2021/11/29 06:16:15.852] This volume DiskNumber:0 offset:1048576
+[2021/11/29 06:16:15.852] Find volume:\\?\Volume{c2bb1660-0000-0000-0000-200000000000}\
+[2021/11/29 06:16:15.853] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.853] NumberOfDiskExtents:1 DiskNumber:1
+[2021/11/29 06:16:15.853] This volume DiskNumber:1 offset:2097152
+[2021/11/29 06:16:15.854] Find volume:\\?\Volume{c606431a-0000-0000-0000-100000000000}\
+[2021/11/29 06:16:15.854] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.854] NumberOfDiskExtents:1 DiskNumber:2
+[2021/11/29 06:16:15.855] This volume DiskNumber:2 offset:1048576
+[2021/11/29 06:16:15.855] Find volume:\\?\Volume{1c1b6373-0260-4270-bd91-f3d1294c0b57}\
+[2021/11/29 06:16:15.855] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.855] NumberOfDiskExtents:1 DiskNumber:3
+[2021/11/29 06:16:15.856] This volume DiskNumber:3 offset:122683392
+[2021/11/29 06:16:15.856] Find volume:\\?\Volume{a6aac2fe-8b17-4808-8d68-ed0f26465a5f}\
+[2021/11/29 06:16:15.856] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.857] NumberOfDiskExtents:1 DiskNumber:3
+[2021/11/29 06:16:15.857] This volume DiskNumber:3 offset:978700992512
+[2021/11/29 06:16:15.857] Find volume:\\?\Volume{644dae1f-0000-0000-0000-100000000000}\
+[2021/11/29 06:16:15.858] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.858] NumberOfDiskExtents:1 DiskNumber:4
+[2021/11/29 06:16:15.858] This volume DiskNumber:4 offset:1048576
+[2021/11/29 06:16:15.858] Find volume:\\?\Volume{0880ff70-5110-11ec-9869-c8e265ce4928}\
+[2021/11/29 06:16:15.859] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.860] NumberOfDiskExtents:1 DiskNumber:5
+[2021/11/29 06:16:15.860] This volume DiskNumber:5 offset:1048576
+[2021/11/29 06:16:15.860] Find volume:\\?\Volume{0880ff71-5110-11ec-9869-c8e265ce4928}\
+[2021/11/29 06:16:15.860] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2021/11/29 06:16:15.861] NumberOfDiskExtents:1 DiskNumber:5
+[2021/11/29 06:16:15.861] This volume DiskNumber:5 offset:30731644928
+[2021/11/29 06:16:15.861] This volume match
+[2021/11/29 06:16:15.861] GetVentoyVolumeName return 0
+[2021/11/29 06:16:15.862] Now lock and dismount volume <\\?\Volume{0880ff71-5110-11ec-9869-c8e265ce4928}>
+[2021/11/29 06:16:15.863] FSCTL_LOCK_VOLUME bRet:1 code:0
+[2021/11/29 06:16:15.864] FSCTL_DISMOUNT_VOLUME bRet:1 code:183
+[2021/11/29 06:16:15.866] Try write part2 bRet:1 dwSize:16384 code:183
+[2021/11/29 06:16:15.868] Write Ventoy to disk ............................ 
+[2021/11/29 06:16:15.868] FormatPart2Fat 60022744...
+[2021/11/29 06:16:15.874] Malloc whole img buffer success, now decompress ...
+[2021/11/29 06:16:17.087] decompress finished success
+[2021/11/29 06:16:17.087] VentoyProcSecureBoot 1 ...
+[2021/11/29 06:16:17.087] Secure boot is enabled ...
+[2021/11/29 06:16:17.234] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.275] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.315] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.356] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.497] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.537] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.751] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:17.946] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.049] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.089] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.129] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.171] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.213] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.253] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.297] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.442] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.483] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.523] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.563] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.603] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.644] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.684] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.727] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.767] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.809] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.850] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:18.993] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.034] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.075] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.116] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.157] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.197] Write part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.231] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.261] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.291] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.321] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.352] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.383] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.413] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.443] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.474] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.504] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.533] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.563] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.599] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.628] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.658] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.688] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.719] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.748] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.777] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.807] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.837] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.866] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.897] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.926] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.956] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:19.985] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.015] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.044] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.075] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.106] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.137] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.168] Read part data bRet:1 dwSize:1048576 code:183
+[2021/11/29 06:16:20.254] FSCTL_UNLOCK_VOLUME bRet:1 code:183
+[2021/11/29 06:16:20.254] Updating Boot Image ............................. 
+[2021/11/29 06:16:20.255] WriteGrubStage1ToPhyDrive ...
+[2021/11/29 06:16:20.275] Write GPT stage1 ...
+[2021/11/29 06:16:20.337] WriteFile Ret:1 dwSize:1031168 ErrCode:183
+[2021/11/29 06:16:20.339] Write resv data ret:1 dwSize:4096 Error:183
+[2021/11/29 06:16:20.339] Boot image has no difference, no need to write.
+[2021/11/29 06:16:20.357] OK
+[2021/11/29 06:16:20.358] Change EFI partition attr 1 <0xc000000000000001> to <0xc000000000000001>
+[2021/11/29 06:16:20.395] VDS init OK, service 00C959BC
+[2021/11/29 06:16:21.398] Callback 1 process for disk <\\?\PhysicalDrive5>
+[2021/11/29 06:16:21.398] ** Partition 2 (offset: 30731644928, size: 33554432, Attr:0x8000000000000001)
+[2021/11/29 06:16:21.443] Change this partitions attribute success
+[2021/11/29 06:16:21.444] VDS_ChangeVtoyEFIAttr 5 (offset:30731644928) ret:1 (SUCCESS)
+[2021/11/29 06:16:21.444] Change EFI partition attr success
+[2021/11/29 06:16:23.039] Combox select change, update secure boot option: 1 1
+[2021/11/29 06:16:42.385] #### Now Refresh PhyDrive ####
+[2021/11/29 06:16:42.385] Current combox selection is PhyDrive5
+[2021/11/29 06:16:42.386] 
+===================== Enum All PhyDrives =====================
+[2021/11/29 06:16:42.387] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/11/29 06:16:42.387] RegQueryValueExA <Count> ret:0  Size:4 Value:6
+[2021/11/29 06:16:42.387] GetPhysicalDriveCount: 6
+[2021/11/29 06:16:42.387] Logical Drives: 0x180fc
+[2021/11/29 06:16:42.388] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:16:42.388] C --> 3
+[2021/11/29 06:16:42.388] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:16:42.388] D --> 2
+[2021/11/29 06:16:42.389] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:16:42.389] E --> 0
+[2021/11/29 06:16:42.389] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:16:42.389] F --> 4
+[2021/11/29 06:16:42.390] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:16:42.390] G --> 1
+[2021/11/29 06:16:42.391] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:16:42.391] H --> 5
+[2021/11/29 06:16:42.391] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:16:42.391] P --> -1
+[2021/11/29 06:16:42.392] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:16:42.392] Q --> -1
+[2021/11/29 06:16:42.393] Create file Handle:000003E8 \\.\PhysicalDrive0 status:0
+[2021/11/29 06:16:42.394] PHYSICALDRIVE0 size 500107862016 bytes
+[2021/11/29 06:16:42.395] Create file Handle:000003E8 \\.\PhysicalDrive1 status:0
+[2021/11/29 06:16:42.396] PHYSICALDRIVE1 size 256060514304 bytes
+[2021/11/29 06:16:42.397] Create file Handle:000003E8 \\.\PhysicalDrive2 status:0
+[2021/11/29 06:16:42.400] PHYSICALDRIVE2 size 1000204886016 bytes
+[2021/11/29 06:16:42.401] Create file Handle:000003E8 \\.\PhysicalDrive3 status:0
+[2021/11/29 06:16:42.401] PHYSICALDRIVE3 size 1000204886016 bytes
+[2021/11/29 06:16:42.403] Create file Handle:000003E8 \\.\PhysicalDrive4 status:0
+[2021/11/29 06:16:42.403] PHYSICALDRIVE4 size 1000204886016 bytes
+[2021/11/29 06:16:42.405] Create file Handle:000003E8 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:16:42.406] PHYSICALDRIVE5 size 30765219840 bytes
+[2021/11/29 06:16:42.406] PhyDrv:0 BusType:SATA Removable:0 Size:512GB(500107862016) Name: Samsung SSD 840 Series
+[2021/11/29 06:16:42.406] PhyDrv:1 BusType:SATA Removable:0 Size:256GB(256060514304) Name: M4-CT256M4SSD2
+[2021/11/29 06:16:42.406] PhyDrv:2 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name: SanDisk Ultra 3D NVMe
+[2021/11/29 06:16:42.407] PhyDrv:3 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name:NVMe Samsung SSD 970
+[2021/11/29 06:16:42.407] PhyDrv:4 BusType:SATA Removable:0 Size:1024GB(1000204886016) Name: HGST HTS721010A9E630
+[2021/11/29 06:16:42.407] PhyDrv:5 BusType:USB  Removable:1 Size:32GB(30765219840) Name:SanDisk Cruzer Snap
+[2021/11/29 06:16:42.407] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:16:42.408] Logical Drive:C  ===> PhyDrive:3
+[2021/11/29 06:16:42.408] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:16:42.408] Logical Drive:D  ===> PhyDrive:2
+[2021/11/29 06:16:42.408] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:16:42.409] Logical Drive:E  ===> PhyDrive:0
+[2021/11/29 06:16:42.409] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:16:42.409] Logical Drive:F  ===> PhyDrive:4
+[2021/11/29 06:16:42.409] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:16:42.409] Logical Drive:G  ===> PhyDrive:1
+[2021/11/29 06:16:42.410] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:16:42.410] Logical Drive:H  ===> PhyDrive:5
+[2021/11/29 06:16:42.411] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:16:42.411] Logical Drive:P  ===> PhyDrive:-1
+[2021/11/29 06:16:42.411] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:16:42.411] Logical Drive:Q  ===> PhyDrive:-1
+[2021/11/29 06:16:42.413] Create file Handle:000003F4 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:16:42.417] Read MBR Ret:1 Size:512 code:183
+[2021/11/29 06:16:42.418] =========== Disk5 GPT Partition 1 ============
+[2021/11/29 06:16:42.418] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:16:42.419] PartTbl.PartGuid = {665e7254-65ce-4159-acb9-5f98e73d94b5}
+[2021/11/29 06:16:42.419] PartTbl.StartLBA = 2048
+[2021/11/29 06:16:42.419] PartTbl.LastLBA = 60022743
+[2021/11/29 06:16:42.419] PartTbl.Attribute = 0x0
+[2021/11/29 06:16:42.419] PartTbl.Name = Ventoy
+[2021/11/29 06:16:42.420] =========== Disk5 GPT Partition 2 ============
+[2021/11/29 06:16:42.420] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:16:42.420] PartTbl.PartGuid = {b55fb615-2758-4f86-b9bb-68255ae558a5}
+[2021/11/29 06:16:42.420] PartTbl.StartLBA = 60022744
+[2021/11/29 06:16:42.420] PartTbl.LastLBA = 60088279
+[2021/11/29 06:16:42.421] PartTbl.Attribute = 0xc000000000000001
+[2021/11/29 06:16:42.421] PartTbl.Name = VTOYEFI
+[2021/11/29 06:16:42.421] PhysicalDrive5 is ventoy disk
+[2021/11/29 06:16:42.421] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:16:42.423] [0] CreateFileA \\.\PhysicalDrive5 code:0 000003F4
+[2021/11/29 06:16:42.423] Parse FAT fs...
+[2021/11/29 06:16:42.425] attach media success...
+[2021/11/29 06:16:42.494] GetVentoyVerInPhyDrive rc=0...
+[2021/11/29 06:16:42.494] VentoyVerInPhyDrive 5 is <1.0.61>...
+[2021/11/29 06:16:42.496] PhyDrive 5 is Ventoy Disk ver:1.0.61 SecureBoot:1
+[2021/11/29 06:16:42.496] < Samsung SSD 840 Series> is filtered for not USB type.
+[2021/11/29 06:16:42.496] < M4-CT256M4SSD2> is filtered for not USB type.
+[2021/11/29 06:16:42.496] < SanDisk Ultra 3D NVMe> is filtered for not USB type.
+[2021/11/29 06:16:42.497] <NVMe Samsung SSD 970> is filtered for not USB type.
+[2021/11/29 06:16:42.497] < HGST HTS721010A9E630> is filtered for not USB type.
+[2021/11/29 06:16:42.501] Combox select change, update secure boot option: 1 1
+[2021/11/29 06:17:05.627] 
+##################################################################################
+######################### Ventoy2DiskX64 1.0.0.3 (1.0.61) #########################
+##################################################################################
+[2021/11/29 06:17:05.627] Current directory:<G>
+[2021/11/29 06:17:05.633] id=10132/8440
+[2021/11/29 06:17:05.633] PPath:<C:\Windows\explorer.exe>
+[2021/11/29 06:17:05.634] PSize:<4865376 4751KB>
+[2021/11/29 06:17:05.634] Lunch main process 0
+[2021/11/29 06:17:05.635] Control Flag: 0 1 1
+[2021/11/29 06:17:05.635] GetSystemWow64DirectoryA=<C:\Windows\SysWOW64>
+[2021/11/29 06:17:05.636] Windows Version: <<Windows 10 Pro, 64-bit (Build 19043.1348)>>
+[2021/11/29 06:17:05.636] 
+===================== Enum All PhyDrives =====================
+[2021/11/29 06:17:05.637] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/11/29 06:17:05.637] RegQueryValueExA <Count> ret:0  Size:4 Value:6
+[2021/11/29 06:17:05.637] GetPhysicalDriveCount: 6
+[2021/11/29 06:17:05.638] Logical Drives: 0x180fc
+[2021/11/29 06:17:05.638] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:17:05.638] C --> 3
+[2021/11/29 06:17:05.639] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:17:05.639] D --> 2
+[2021/11/29 06:17:05.639] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:17:05.639] E --> 0
+[2021/11/29 06:17:05.640] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:17:05.640] F --> 4
+[2021/11/29 06:17:05.640] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:17:05.640] G --> 1
+[2021/11/29 06:17:05.641] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:17:05.641] H --> 5
+[2021/11/29 06:17:05.642] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:17:05.642] P --> -1
+[2021/11/29 06:17:05.642] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:17:05.642] Q --> -1
+[2021/11/29 06:17:05.644] Create file Handle:0000000000000174 \\.\PhysicalDrive0 status:0
+[2021/11/29 06:17:05.644] PHYSICALDRIVE0 size 500107862016 bytes
+[2021/11/29 06:17:05.646] Create file Handle:0000000000000174 \\.\PhysicalDrive1 status:0
+[2021/11/29 06:17:05.646] PHYSICALDRIVE1 size 256060514304 bytes
+[2021/11/29 06:17:05.648] Create file Handle:0000000000000174 \\.\PhysicalDrive2 status:0
+[2021/11/29 06:17:05.650] PHYSICALDRIVE2 size 1000204886016 bytes
+[2021/11/29 06:17:05.651] Create file Handle:0000000000000174 \\.\PhysicalDrive3 status:0
+[2021/11/29 06:17:05.651] PHYSICALDRIVE3 size 1000204886016 bytes
+[2021/11/29 06:17:05.653] Create file Handle:0000000000000174 \\.\PhysicalDrive4 status:0
+[2021/11/29 06:17:05.653] PHYSICALDRIVE4 size 1000204886016 bytes
+[2021/11/29 06:17:05.655] Create file Handle:0000000000000174 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:17:05.656] PHYSICALDRIVE5 size 30765219840 bytes
+[2021/11/29 06:17:05.656] PhyDrv:0 BusType:SATA Removable:0 Size:512GB(500107862016) Name: Samsung SSD 840 Series
+[2021/11/29 06:17:05.656] PhyDrv:1 BusType:SATA Removable:0 Size:256GB(256060514304) Name: M4-CT256M4SSD2
+[2021/11/29 06:17:05.656] PhyDrv:2 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name: SanDisk Ultra 3D NVMe
+[2021/11/29 06:17:05.657] PhyDrv:3 BusType:Nvme Removable:0 Size:1024GB(1000204886016) Name:NVMe Samsung SSD 970
+[2021/11/29 06:17:05.657] PhyDrv:4 BusType:SATA Removable:0 Size:1024GB(1000204886016) Name: HGST HTS721010A9E630
+[2021/11/29 06:17:05.657] PhyDrv:5 BusType:USB  Removable:1 Size:32GB(30765219840) Name:SanDisk Cruzer Snap
+[2021/11/29 06:17:05.657] LogicalDrive:\\.\C: PhyDrive:3 Offset:122683392 ExtentLength:978578309120
+[2021/11/29 06:17:05.658] Logical Drive:C  ===> PhyDrive:3
+[2021/11/29 06:17:05.658] LogicalDrive:\\.\D: PhyDrive:2 Offset:1048576 ExtentLength:1000202043392
+[2021/11/29 06:17:05.658] Logical Drive:D  ===> PhyDrive:2
+[2021/11/29 06:17:05.658] LogicalDrive:\\.\E: PhyDrive:0 Offset:1048576 ExtentLength:500104715776
+[2021/11/29 06:17:05.659] Logical Drive:E  ===> PhyDrive:0
+[2021/11/29 06:17:05.659] LogicalDrive:\\.\F: PhyDrive:4 Offset:1048576 ExtentLength:1000201224704
+[2021/11/29 06:17:05.659] Logical Drive:F  ===> PhyDrive:4
+[2021/11/29 06:17:05.659] LogicalDrive:\\.\G: PhyDrive:1 Offset:2097152 ExtentLength:256056320000
+[2021/11/29 06:17:05.659] Logical Drive:G  ===> PhyDrive:1
+[2021/11/29 06:17:05.660] LogicalDrive:\\.\H: PhyDrive:5 Offset:1048576 ExtentLength:30730596352
+[2021/11/29 06:17:05.660] Logical Drive:H  ===> PhyDrive:5
+[2021/11/29 06:17:05.661] LogicalDrive:\\.\P: PhyDrive:-1 Offset:0 ExtentLength:5242880000
+[2021/11/29 06:17:05.661] Logical Drive:P  ===> PhyDrive:-1
+[2021/11/29 06:17:05.661] LogicalDrive:\\.\Q: PhyDrive:-1 Offset:0 ExtentLength:4294967296
+[2021/11/29 06:17:05.661] Logical Drive:Q  ===> PhyDrive:-1
+[2021/11/29 06:17:05.663] Create file Handle:0000000000000174 \\.\PhysicalDrive5 status:0
+[2021/11/29 06:17:05.665] Read MBR Ret:1 Size:512 code:183
+[2021/11/29 06:17:05.666] =========== Disk5 GPT Partition 1 ============
+[2021/11/29 06:17:05.666] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:17:05.666] PartTbl.PartGuid = {665e7254-65ce-4159-acb9-5f98e73d94b5}
+[2021/11/29 06:17:05.666] PartTbl.StartLBA = 2048
+[2021/11/29 06:17:05.667] PartTbl.LastLBA = 60022743
+[2021/11/29 06:17:05.667] PartTbl.Attribute = 0x0
+[2021/11/29 06:17:05.667] PartTbl.Name = Ventoy
+[2021/11/29 06:17:05.667] =========== Disk5 GPT Partition 2 ============
+[2021/11/29 06:17:05.668] PartTbl.PartType = {ebd0a0a2-b9e5-4433-87c0-68b6b72699c7}
+[2021/11/29 06:17:05.668] PartTbl.PartGuid = {b55fb615-2758-4f86-b9bb-68255ae558a5}
+[2021/11/29 06:17:05.668] PartTbl.StartLBA = 60022744
+[2021/11/29 06:17:05.668] PartTbl.LastLBA = 60088279
+[2021/11/29 06:17:05.668] PartTbl.Attribute = 0xc000000000000001
+[2021/11/29 06:17:05.669] PartTbl.Name = VTOYEFI
+[2021/11/29 06:17:05.669] PhysicalDrive5 is ventoy disk
+[2021/11/29 06:17:05.669] QueryDosDeviceA success \Device\Harddisk5\DR6
+[2021/11/29 06:17:05.671] [0] CreateFileA \\.\PhysicalDrive5 code:0 0000000000000180
+[2021/11/29 06:17:05.671] Parse FAT fs...
+[2021/11/29 06:17:05.673] attach media success...
+[2021/11/29 06:17:05.742] GetVentoyVerInPhyDrive rc=0...
+[2021/11/29 06:17:05.742] VentoyVerInPhyDrive 5 is <1.0.61>...
+[2021/11/29 06:17:05.744] PhyDrive 5 is Ventoy Disk ver:1.0.61 SecureBoot:1
+[2021/11/29 06:17:05.744] < Samsung SSD 840 Series> is filtered for not USB type.
+[2021/11/29 06:17:05.744] < M4-CT256M4SSD2> is filtered for not USB type.
+[2021/11/29 06:17:05.744] < SanDisk Ultra 3D NVMe> is filtered for not USB type.
+[2021/11/29 06:17:05.744] <NVMe Samsung SSD 970> is filtered for not USB type.
+[2021/11/29 06:17:05.746] < HGST HTS721010A9E630> is filtered for not USB type.
+[2021/11/29 06:17:05.782] Load languages from json file ...
+[2021/11/29 06:17:05.783] language json file len:180106 json parse:0
+[2021/11/29 06:17:05.784] Total 41 languages ...
+[2021/11/29 06:17:05.830] Combox select change, update secure boot option: 0 1

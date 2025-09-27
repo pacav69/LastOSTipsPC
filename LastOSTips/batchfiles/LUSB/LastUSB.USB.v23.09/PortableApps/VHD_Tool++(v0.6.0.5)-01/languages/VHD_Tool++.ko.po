@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: globaltype.rs_all_done_successfully
+msgid "All Done Successfully"
+msgstr "모든 작업 완료"
+
+#: globaltype.rs_all_uploaded_successfully
+msgid "All Uploaded Successfully"
+msgstr "올림 성공"
+
+#: globaltype.rs_all_verified_successfully
+msgid "All Verified Successfully"
+msgstr "비교 성공"
+
+#: globaltype.rs_all_write_verified_successfully
+msgid "All Write-Verified Successfully"
+msgstr "쓰고 비교하기 성공"
+
+#: globaltype.rs_all_written_successfully
+msgid "All Written Successfully"
+msgstr "쓰기 성공"
+
+#: globaltype.rs_already_select_as_source_drive
+msgid "Already select as source drive"
+msgstr "원본 드라이브에서 이미 선택"
+
+#: globaltype.rs_average
+msgid "average"
+msgstr "평균"
+
+#: globaltype.rs_blank
+msgid "Less Characters or Blank"
+msgstr ""
+
+#: globaltype.rs_but_this_test_process
+msgid "But This Test Process"
+msgstr "그러나 이것은 일부 테스트 작업이다"
+
+#: globaltype.rs_conversion_ok
+msgid "Conversion OK"
+msgstr "변환 성공"
+
+#: globaltype.rs_data_will_be_destroyed_permanently
+msgid "Data will be destroyed permanently"
+msgstr "모든 데이터가 지워집니다"
+
+#: globaltype.rs_defragmented_successfully
+msgid "defragmented successfully"
+msgstr "조각모음 성공"
+
+#: globaltype.rs_device_enumeration_order
+msgid "Device Enumeration Order"
+msgstr ""
+
+#: globaltype.rs_device_number
+msgid "Device Number"
+msgstr ""
+
+#: globaltype.rs_diff_vhd
+msgid "Diff VHD"
+msgstr "자식 VHD"
+
+#: globaltype.rs_do_you_want_to_proceed
+msgid "do you want to proceed?"
+msgstr "진행할까요?"
+
+#: globaltype.rs_drives_have_changed
+msgid "Drives have Changed. Please Push Refresh Button"
+msgstr ""
+
+#: globaltype.rs_dynamic_vhd
+msgid "Dynamic VHD"
+msgstr "동적 VHD"
+
+#: globaltype.rs_dynamic_vmdk_is_not_supported
+msgid "dynamic vmdk is not supported"
+msgstr "다이나믹 VMDK 는 지원안함"
+
+#: globaltype.rs_error
+msgid "Error"
+msgstr "오류"
+
+#: globaltype.rs_errors_occur
+msgid "Errors Occur"
+msgstr "오류 발생"
+
+#: globaltype.rs_exit_the_program_and_try_again
+msgid "Exit the Program and try again"
+msgstr "사용중인 프로그램을 중지하고 다시 시도"
+
+#: globaltype.rs_file_not_found
+msgid "file not found"
+msgstr "파일 없음"
+
+#: globaltype.rs_file_not_found_or_corrupted
+msgid "file not found or corrupted"
+msgstr "파일이 없거나 깨짐"
+
+#: globaltype.rs_file_open_error
+msgid "File Open Error"
+msgstr "파일 열기 오류"
+
+#: globaltype.rs_file_type
+msgctxt "globaltype.rs_file_type"
+msgid "File Type"
+msgstr "파일 종류"
+
+#: globaltype.rs_finished
+msgid "Finished"
+msgstr ""
+
+#: globaltype.rs_fixed_vhd
+msgid "Fixed VHD"
+msgstr "고정 VHD"
+
+#: globaltype.rs_general_file
+msgid "General File"
+msgstr "일반 파일"
+
+#: globaltype.rs_high
+msgid "High"
+msgstr "높음"
+
+#: globaltype.rs_implicit_volume_drive
+msgid "implicit Volume Drive"
+msgstr ""
+
+#: globaltype.rs_inverse
+msgid "Inverse"
+msgstr "반전"
+
+#: globaltype.rs_is_already_exists
+msgid "is already exists"
+msgstr "이미 존재함"
+
+#: globaltype.rs_is_being_used_by_another_program
+msgid "is being used by another program."
+msgstr "다른 프로그램에서 사용중"
+
+#: globaltype.rs_is_expanded_successfully
+msgid "is expanded successfully"
+msgstr "확장 성공"
+
+#: globaltype.rs_is_less_than_12mb
+msgid "is less than 12MB"
+msgstr "12MB 보다 작음"
+
+#: globaltype.rs_is_less_than_the_source_file_size
+msgid "is less than the source file size"
+msgstr "원본 파일 크기보다 작음"
+
+#: globaltype.rs_is_not_created_properly_
+msgid "is not created properly."
+msgstr "성공적으로 생성되지 못함"
+
+#: globaltype.rs_is_not_found
+msgid "is not found"
+msgstr "찾기 실패"
+
+#: globaltype.rs_is_not_iodd
+msgid "is not IODD"
+msgstr "IODD 가 아닙니다"
+
+#: globaltype.rs_it_is_fixed_drive
+msgid "It is fixed drive"
+msgstr "고정 드라이브 입니다"
+
+#: globaltype.rs_it_is_system_drive
+msgid "It is system drive"
+msgstr "시스템 드라이브 입니다"
+
+#: globaltype.rs_license_error
+msgid "License Error"
+msgstr ""
+
+#: globaltype.rs_logic_error_see_log
+msgid "Logic Error. see logs"
+msgstr "프로그램 버그. 로그를 보세요"
+
+#: globaltype.rs_low
+msgid "Low"
+msgstr "낮음"
+
+#: globaltype.rs_must_safely_remove_before_eject_hdd
+msgid "Must safely remove before eject HDD"
+msgstr "드라이브 분리전에 안전제거 요함"
+
+#: globaltype.rs_normal
+msgctxt "globaltype.rs_normal"
+msgid "Normal"
+msgstr "일반"
+
+#: globaltype.rs_notempdirectory
+msgctxt "globaltype.rs_notempdirectory"
+msgid "No Temp Directory"
+msgstr "임시 폴더 없음"
+
+#: globaltype.rs_notification
+msgid "Notification"
+msgstr ""
+
+#: globaltype.rs_not_enough_free_space
+msgid "Not enough free space"
+msgstr "여유공간 적음"
+
+#: globaltype.rs_not_success
+msgid "Not Success !!!"
+msgstr "실패"
+
+#: globaltype.rs_no_drive
+msgid "No Drive"
+msgstr "드라이브 없음"
+
+#: globaltype.rs_no_license
+msgid "No License"
+msgstr ""
+
+#: globaltype.rs_ntfs_system_only
+msgid "NTFS File System only is supported"
+msgstr "NTFS 파일시스템만 지원합니다."
+
+#: globaltype.rs_only_one_file_is_allowed_in_zip_file
+msgid "only one file is allowed in ZIP file"
+msgstr "압축파일내에 한 파일만 존재해야함"
+
+#: globaltype.rs_password
+msgid "Password"
+msgstr ""
+
+#: globaltype.rs_please_wait
+msgid "Please wait ..."
+msgstr "기다려 주세요 ..."
+
+#: globaltype.rs_port
+msgid "Port"
+msgstr ""
+
+#: globaltype.rs_read_mode
+msgid "Read"
+msgstr "읽기"
+
+#: globaltype.rs_remainder_exist
+msgid "remainder exists"
+msgstr "전부 실행되지 못함"
+
+#: globaltype.rs_run_status
+msgid "Run Status"
+msgstr ""
+
+#: globaltype.rs_seconds
+msgid "Seconds"
+msgstr "초"
+
+#: globaltype.rs_seed
+msgid "Seed"
+msgstr "시드"
+
+#: globaltype.rs_see_log
+msgid "please see log"
+msgstr "로그창을 보세요"
+
+#: globaltype.rs_select_a_drive
+msgid "Select a Drive"
+msgstr "드라이브를 선택하세요"
+
+#: globaltype.rs_select_filename
+msgid "select filename"
+msgstr "파일을 선택하세요"
+
+#: globaltype.rs_select_only_one_iodd
+msgid "select only one IODD to license, before hit this button"
+msgstr ""
+
+#: globaltype.rs_select_source_drive_first
+msgid "Select Source drive first"
+msgstr "먼저 원본 드라이브를 선택하세요"
+
+#: globaltype.rs_select_source_file_first
+msgid "Select Source file first"
+msgstr "먼저 원본 파일을 선택하세요"
+
+#: globaltype.rs_select_target_hdd
+msgid "Select Target HDD"
+msgstr "대상 드라이브를 선택하세요"
+
+#: globaltype.rs_size
+msgid "size"
+msgstr "크기"
+
+#: globaltype.rs_size_min_error
+msgid "The Size must be larger than 12MB"
+msgstr "사이즈가 12MB 보다 커야함"
+
+#: globaltype.rs_size_mismatched
+msgid "Size mismatched"
+msgstr "크기가 다름"
+
+#: globaltype.rs_smtp_server
+msgid "SMTP Server"
+msgstr ""
+
+#: globaltype.rs_source_disk_for_copy
+msgid "Source Disk for Copy"
+msgstr ""
+
+#: globaltype.rs_source_drive_size_is_invalid
+msgid "Source drive size is invalid"
+msgstr "원본 드라이브 크기 이상"
+
+#: globaltype.rs_source_file_is_in_target_drive
+msgid "Source file is in Target drive"
+msgstr "원본파일이 대상 드라이브안에 있어요"
+
+#: globaltype.rs_targetiswriteprotectedor
+msgid "Target is Write Protected or Locked or Damaged or Ejected"
+msgstr "대상 드라이브가 쓰기금지 혹은 잠김 , 손상, 제거 되었음"
+
+#: globaltype.rs_target_disks
+msgid "Target Disks"
+msgstr ""
+
+#: globaltype.rs_target_drive_size
+msgid "Target Drive size"
+msgstr "대상 드라이브 크기"
+
+#: globaltype.rs_target_size_is_less_than_source
+msgid "Target size is less than source"
+msgstr "대상 크기가 원본 크기보다 작음"
+
+#: globaltype.rs_the_drive_that_you_select_is_not_iodd
+msgid "The drive that you select is not IODD"
+msgstr "선택한 드라이브는 IODD 가 아님"
+
+#: globaltype.rs_the_file_aleady_exists
+msgid "The file aleady exists"
+msgstr "파일이 이미 존재함"
+
+#: globaltype.rs_the_file_is_not_fixed_vhd
+msgid "The file is not fixed VHD"
+msgstr "VHD 파일이 아님"
+
+#: globaltype.rs_the_file_is_not_found_or_corrupted
+msgid "the file is not found. or corrupted"
+msgstr "파일이 없거나 손상됨"
+
+#: globaltype.rs_the_file_is_over_than_free_space
+msgid "The file is over than free space"
+msgstr "파일크기가 여유공간보다 큼"
+
+#: globaltype.rs_the_file_is_over_than_the_largest_linear_space
+msgid "The file is over than the largest linear space"
+msgstr "파일크기가 연속된 공간보다 큼"
+
+#: globaltype.rs_the_file_is_vhd_file
+msgid "The file is VHD file"
+msgstr "VHD 파일을 선택함"
+
+#: globaltype.rs_the_hdds_size_is_less_than_source_size
+msgid "The HDD's size is less than source size"
+msgstr "대상 하드크기가 원본보다  작음"
+
+#: globaltype.rs_the_linear_space_is_less_than_required
+msgid "The linear space is less than required"
+msgstr "연속된 공간이 적음"
+
+#: globaltype.rs_the_target_size_must_be_bigger_than_source_size
+msgid "The Target size must be bigger than source size"
+msgstr "대상크기가 원본보다 커야됨"
+
+#: globaltype.rs_time_out
+msgid "Time Out"
+msgstr ""
+
+#: globaltype.rs_unknown_error_encountered
+msgid "Unknown error encountered"
+msgstr "미확인 오류 발생"
+
+#: globaltype.rs_unknown_err_in_opening
+msgid "Unknown Error In Opening"
+msgstr "미확인 오류, 열기시 "
+
+#: globaltype.rs_upload
+msgctxt "globaltype.rs_upload"
+msgid "Upload"
+msgstr "올리기"
+
+#: globaltype.rs_user_abort
+msgid "User Abort"
+msgstr "사용자 취소"
+
+#: globaltype.rs_user_id
+msgid "User ID"
+msgstr ""
+
+#: globaltype.rs_verification_fail
+msgid "Verification Fail"
+msgstr "비교검사 오류"
+
+#: globaltype.rs_verify
+msgctxt "globaltype.rs_verify"
+msgid "Verify"
+msgstr "검사"
+
+#: globaltype.rs_verify_mode
+msgctxt "globaltype.rs_verify_mode"
+msgid "Verify"
+msgstr "비교"
+
+#: globaltype.rs_vhd_file_is_corrupted
+msgid "VHD file is corrupted"
+msgstr "VHD 파일 손상"
+
+#: globaltype.rs_volume
+msgid "Volume"
+msgstr "볼륨"
+
+#: globaltype.rs_what_disk_this_util_execute_in_is_not_iodd
+msgid "what disk this util execute in is not IODD"
+msgstr "IODD 에서 실행되지 않았음"
+
+#: globaltype.rs_will_not_be_opend
+msgid "will not be opend"
+msgstr "열리지 않음"
+
+#: globaltype.rs_will_not_be_unmounted
+msgid "will not be unmounted"
+msgstr "언마운트 안됨"
+
+#: globaltype.rs_write
+msgctxt "globaltype.rs_write"
+msgid "Write"
+msgstr "쓰기"
+
+#: globaltype.rs_write_mode
+msgctxt "globaltype.rs_write_mode"
+msgid "Write"
+msgstr "쓰기"
+
+#: globaltype.rs_you_can_select_multiple_items
+msgid "you can select multiple items in target listbox"
+msgstr "대상 드라이브에서 다중선택이 가능함"
+
+#: tform1.button1.caption
+msgctxt "TFORM1.BUTTON1.CAPTION"
+msgid "Upload"
+msgstr "올리기"
+
+#: tform1.button10.caption
+msgid "Refresh"
+msgstr "새로고침"
+
+#: tform1.button11.caption
+msgctxt "tform1.button11.caption"
+msgid "Verify"
+msgstr "검사"
+
+#: tform1.button12.caption
+msgid "Write Verify"
+msgstr "쓰고 비교"
+
+#: tform1.button13.caption
+msgid "Stop"
+msgstr "중단"
+
+#: tform1.button14.caption
+msgid "GenErr"
+msgstr ""
+
+#: tform1.button15.caption
+msgid "Clear Log"
+msgstr "로그 삭제"
+
+#: tform1.button16.caption
+msgid "Test Lic"
+msgstr ""
+
+#: tform1.button17.caption
+msgid "TestExe"
+msgstr ""
+
+#: tform1.button2.caption
+msgctxt "TFORM1.BUTTON2.CAPTION"
+msgid "Create"
+msgstr "만들기"
+
+#: tform1.button3.caption
+msgctxt "tform1.button3.caption"
+msgid "Open"
+msgstr "열기"
+
+#: tform1.button4.caption
+msgctxt "TFORM1.BUTTON4.CAPTION"
+msgid "Convert"
+msgstr "변환"
+
+#: tform1.button5.caption
+msgctxt "TFORM1.BUTTON5.CAPTION"
+msgid "Open"
+msgstr "열기"
+
+#: tform1.button6.caption
+msgctxt "TFORM1.BUTTON6.CAPTION"
+msgid "Extend"
+msgstr "확장"
+
+#: tform1.button7.caption
+msgctxt "TFORM1.BUTTON7.CAPTION"
+msgid "Open"
+msgstr "열기"
+
+#: tform1.button8.caption
+msgid "Defrag"
+msgstr "조각모음"
+
+#: tform1.button9.caption
+msgctxt "tform1.button9.caption"
+msgid "Write"
+msgstr "쓰기"
+
+#: tform1.caption
+msgid "VHD Tool ++"
+msgstr ""
+
+#: tform1.checkbox1.caption
+msgctxt "tform1.checkbox1.caption"
+msgid "No Fragmention"
+msgstr "조각없이 생성"
+
+#: tform1.checkbox1.hint
+msgid "Checked means VHD will be maden without fragmentation"
+msgstr "체크하면 조각없이 만들어짐"
+
+#: tform1.checkbox2.caption
+msgctxt "TFORM1.CHECKBOX2.CAPTION"
+msgid "No Fragmention"
+msgstr "조각없이 생성"
+
+#: tform1.checkbox3.caption
+msgid "Size Extend To"
+msgstr "확장될 크기"
+
+#: tform1.checkbox4.caption
+msgid "Fill Zero"
+msgstr "0 을 채움"
+
+#: tform1.checkbox4.hint
+msgid "Wipe Whole VHD image with zero"
+msgstr "0으로 채워서 만듬"
+
+#: tform1.checkbox5.caption
+msgid "Dual Mode"
+msgstr "듀얼 모드"
+
+#: tform1.checkbox5.hint
+msgid "Checked for Removable drive, Unchecked for Fixed drive"
+msgstr "체크 - 이동식, 언체크 - 고정식"
+
+#: tform1.checkbox6.caption
+#| msgid "Parent HDD RW"
+msgid "HDD RW"
+msgstr "디스크 쓰기허가"
+
+#: tform1.checkbox6.hint
+msgid "Checked means when this VHD is booted, Parent HDD will be write enabled"
+msgstr "선택 - 가상하드 부팅시 부모디스크 쓰기허가"
+
+#: tform1.checkbox7.caption
+msgid "Fill Zero (Dynamic Only, Slow)"
+msgstr "미사용부분 0으로 채움, 느림"
+
+#: tform1.checkbox8.caption
+msgid "Disable Lic"
+msgstr ""
+
+#: tform1.combobox1.text
+msgctxt "tform1.combobox1.text"
+msgid "MB"
+msgstr ""
+
+#: tform1.combobox2.text
+msgctxt "TFORM1.COMBOBOX2.TEXT"
+msgid "MB"
+msgstr ""
+
+#: tform1.combobox3.text
+msgctxt "TFORM1.COMBOBOX3.TEXT"
+msgid "MB"
+msgstr ""
+
+#: tform1.edit1.text
+msgid "100"
+msgstr ""
+
+#: tform1.edit20.text
+msgctxt "TFORM1.EDIT20.TEXT"
+msgid "File Type"
+msgstr "파일 종류"
+
+#: tform1.edit21.text
+msgctxt "tform1.edit21.text"
+msgid "File Type"
+msgstr "파일 종류"
+
+#: tform1.edit22.text
+msgid "status"
+msgstr "상태창"
+
+#: tform1.label1.caption
+msgctxt "tform1.label1.caption"
+msgid "Size"
+msgstr "크기"
+
+#: tform1.label10.caption
+msgctxt "tform1.label10.caption"
+msgid "FileName"
+msgstr "파일이름"
+
+#: tform1.label11.caption
+msgid "Defragment a file"
+msgstr "한 파일 조각모음"
+
+#: tform1.label12.caption
+msgctxt "TFORM1.LABEL12.CAPTION"
+msgid "File"
+msgstr "파일"
+
+#: tform1.label13.caption
+msgid "Fragments"
+msgstr "조각"
+
+#: tform1.label14.caption
+msgid "Upload to IODD (*.* or *.zip)"
+msgstr "IODD에 올리기  (*.* or *.zip)"
+
+#: tform1.label15.caption
+msgid "Drive"
+msgstr "드라이브"
+
+#: tform1.label16.caption
+msgctxt "tform1.label16.caption"
+msgid "Free space"
+msgstr "빈 공간"
+
+#: tform1.label17.caption
+msgid "Free space fragments"
+msgstr "빈 공간 조각"
+
+#: tform1.label18.caption
+msgctxt "tform1.label18.caption"
+msgid "Largest linear space"
+msgstr "가장 큰 연속 공간"
+
+#: tform1.label19.caption
+msgid "Please Wait a minute.."
+msgstr "잠시 기다리세요"
+
+#: tform1.label2.caption
+msgctxt "TFORM1.LABEL2.CAPTION"
+msgid "FileName"
+msgstr "파일이름"
+
+#: tform1.label20.caption
+msgctxt "TFORM1.LABEL20.CAPTION"
+msgid "Size"
+msgstr "크기"
+
+#: tform1.label21.caption
+msgid "Files"
+msgstr "파일수"
+
+#: tform1.label22.caption
+msgid "Target Dir"
+msgstr "대상 폴더"
+
+#: tform1.label23.caption
+msgctxt "TFORM1.LABEL23.CAPTION"
+msgid "Largest linear space"
+msgstr "가장 큰 연속공간"
+
+#: tform1.label24.caption
+msgctxt "TFORM1.LABEL24.CAPTION"
+msgid "Free space"
+msgstr "빈 공간"
+
+#: tform1.label25.caption
+msgid "Write to HDD (*.* or *.zip) - Very Be Careful"
+msgstr "하드에 쓰기 (*.* or *.zip) - 매우 조심"
+
+#: tform1.label26.caption
+msgctxt "TFORM1.LABEL26.CAPTION"
+msgid "Source File"
+msgstr "원본 파일"
+
+#: tform1.label27.caption
+msgid "Source Size"
+msgstr "원본 크기"
+
+#: tform1.label28.caption
+msgid "Target HDD"
+msgstr "대상 드라이브"
+
+#: tform1.label29.caption
+msgid "Priority"
+msgstr "실행속도"
+
+#: tform1.label3.caption
+msgid "Change RAW Image To Fixed VHD"
+msgstr "일반 파일을 고정 VHD로 변환"
+
+#: tform1.label4.caption
+msgid "Create Continuous Fixed VHD"
+msgstr "연속된 고정 VHD 만들기"
+
+#: tform1.label5.caption
+msgid "Extends an existing fixed format VHD to a larger size "
+msgstr "고정 VHD 를 더 크게 확장"
+
+#: tform1.label6.caption
+msgid "Free Size"
+msgstr "빈 공간"
+
+#: tform1.label7.caption
+msgctxt "tform1.label7.caption"
+msgid "Source File"
+msgstr "원본 파일"
+
+#: tform1.label8.caption
+msgid "Size To Expand"
+msgstr "확장할 크기"
+
+#: tform1.label9.caption
+msgctxt "tform1.label9.caption"
+msgid "File"
+msgstr "파일"
+
+#: tform1.statictext1.caption
+msgid "http://iodd.co.kr"
+msgstr ""
+
+#: tform1.statictext2.caption
+msgid "Iodd Products"
+msgstr "Iodd 제품군"
+
+#: tform1.tabsheet1.caption
+msgctxt "tform1.tabsheet1.caption"
+msgid "Create"
+msgstr "만들기"
+
+#: tform1.tabsheet2.caption
+msgctxt "tform1.tabsheet2.caption"
+msgid "Convert"
+msgstr "변환"
+
+#: tform1.tabsheet3.caption
+msgctxt "tform1.tabsheet3.caption"
+msgid "Extend"
+msgstr "확장"
+
+#: tform1.tabsheet4.caption
+msgid "Defragment"
+msgstr "조각모음"
+
+#: tform1.tabsheet5.caption
+msgctxt "tform1.tabsheet5.caption"
+msgid "Upload"
+msgstr "올리기"
+
+#: tform1.tabsheet6.caption
+msgid "About"
+msgstr "정보"
+
+#: tform1.tabsheet7.caption
+msgid "Write To HDD"
+msgstr "디스크에 쓰기"

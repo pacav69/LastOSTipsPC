@@ -1,0 +1,1 @@
+VHD_Tool++.exe --lang zh

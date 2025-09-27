@@ -1,0 +1,100 @@
+[2021/06/24 01:08:59.658] 
+################################ Ventoy2Disk 1.0.0.2 ################################
+[2021/06/24 01:08:59.674] Control Flag: 0 1 1
+[2021/06/24 01:08:59.674] Windows Version : Windows 10 64-bit (Build 19041)
+[2021/06/24 01:08:59.674] 
+===================== Enum All PhyDrives =====================
+[2021/06/24 01:08:59.674] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/06/24 01:08:59.674] RegQueryValueExA <Count> ret:0  Size:4 Value:3
+[2021/06/24 01:08:59.674] GetPhysicalDriveCount: 3
+[2021/06/24 01:08:59.674] Logical Drives: 0x1800036
+[2021/06/24 01:08:59.674] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\B:, error:1
+[2021/06/24 01:08:59.674] B --> -1
+[2021/06/24 01:08:59.674] LogicalDrive:\\.\C: PhyDrive:0 Offset:290455552 ExtentLength:999909490688
+[2021/06/24 01:08:59.674] C --> 0
+[2021/06/24 01:08:59.674] LogicalDrive:\\.\E: PhyDrive:2 Offset:256026959872 ExtentLength:33554432
+[2021/06/24 01:08:59.674] E --> 2
+[2021/06/24 01:08:59.674] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\F:, error:1
+[2021/06/24 01:08:59.674] F --> -1
+[2021/06/24 01:08:59.674] LogicalDrive:\\.\X: PhyDrive:-1 Offset:0 ExtentLength:971264
+[2021/06/24 01:08:59.674] X --> -1
+[2021/06/24 01:08:59.674] LogicalDrive:\\.\Y: PhyDrive:2 Offset:1048576 ExtentLength:256025911296
+[2021/06/24 01:08:59.674] Y --> 2
+[2021/06/24 01:08:59.674] Create file Handle:00000180 \\.\PhysicalDrive0 status:0
+[2021/06/24 01:08:59.674] PHYSICALDRIVE0 size 1000204886016 bytes
+[2021/06/24 01:08:59.674] Create file Handle:FFFFFFFF \\.\PhysicalDrive1 status:32
+[2021/06/24 01:08:59.689] Create file Handle:00000188 \\.\PhysicalDrive2 status:0
+[2021/06/24 01:08:59.689] PHYSICALDRIVE2 size 256060514304 bytes
+[2021/06/24 01:08:59.689] PhyDrv:0 BusType:SATA Removable:0 Size:1024GB(1000204886016) Name: WDC  WDS100T2B0B-00YS70
+[2021/06/24 01:08:59.689] PhyDrv:2 BusType:USB  Removable:0 Size:256GB(256060514304) Name:Realtek RTL9210 NVME
+[2021/06/24 01:08:59.689] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\B:, error:1
+[2021/06/24 01:08:59.689] Logical Drive:B  ===> PhyDrive:-1
+[2021/06/24 01:08:59.689] LogicalDrive:\\.\C: PhyDrive:0 Offset:290455552 ExtentLength:999909490688
+[2021/06/24 01:08:59.689] Logical Drive:C  ===> PhyDrive:0
+[2021/06/24 01:08:59.689] LogicalDrive:\\.\E: PhyDrive:2 Offset:256026959872 ExtentLength:33554432
+[2021/06/24 01:08:59.689] Logical Drive:E  ===> PhyDrive:2
+[2021/06/24 01:08:59.689] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\F:, error:1
+[2021/06/24 01:08:59.689] Logical Drive:F  ===> PhyDrive:-1
+[2021/06/24 01:08:59.689] LogicalDrive:\\.\X: PhyDrive:-1 Offset:0 ExtentLength:971264
+[2021/06/24 01:08:59.689] Logical Drive:X  ===> PhyDrive:-1
+[2021/06/24 01:08:59.689] LogicalDrive:\\.\Y: PhyDrive:2 Offset:1048576 ExtentLength:256025911296
+[2021/06/24 01:08:59.689] Logical Drive:Y  ===> PhyDrive:2
+[2021/06/24 01:08:59.689] Create file Handle:000000B0 \\.\PhysicalDrive2 status:0
+[2021/06/24 01:08:59.689] Read MBR Ret:1 Size:512 code:183
+[2021/06/24 01:08:59.689] =========== Partition Table 1 ============
+[2021/06/24 01:08:59.689] PartTbl.Active = 0x80
+[2021/06/24 01:08:59.689] PartTbl.FsFlag = 0x7
+[2021/06/24 01:08:59.705] PartTbl.StartSectorId = 2048
+[2021/06/24 01:08:59.705] PartTbl.SectorCount = 500050608
+[2021/06/24 01:08:59.705] PartTbl.StartHead = 32
+[2021/06/24 01:08:59.705] PartTbl.StartSector = 33
+[2021/06/24 01:08:59.705] PartTbl.StartCylinder = 0
+[2021/06/24 01:08:59.705] PartTbl.EndHead = 254
+[2021/06/24 01:08:59.705] PartTbl.EndSector = 63
+[2021/06/24 01:08:59.705] PartTbl.EndCylinder = 1023
+[2021/06/24 01:08:59.705] =========== Partition Table 2 ============
+[2021/06/24 01:08:59.705] PartTbl.Active = 0x0
+[2021/06/24 01:08:59.705] PartTbl.FsFlag = 0xef
+[2021/06/24 01:08:59.705] PartTbl.StartSectorId = 500052656
+[2021/06/24 01:08:59.705] PartTbl.SectorCount = 65536
+[2021/06/24 01:08:59.705] PartTbl.StartHead = 213
+[2021/06/24 01:08:59.705] PartTbl.StartSector = 48
+[2021/06/24 01:08:59.705] PartTbl.StartCylinder = 406
+[2021/06/24 01:08:59.705] PartTbl.EndHead = 233
+[2021/06/24 01:08:59.705] PartTbl.EndSector = 63
+[2021/06/24 01:08:59.705] PartTbl.EndCylinder = 410
+[2021/06/24 01:08:59.705] =========== Partition Table 3 ============
+[2021/06/24 01:08:59.705] PartTbl.Active = 0x0
+[2021/06/24 01:08:59.705] PartTbl.FsFlag = 0x0
+[2021/06/24 01:08:59.705] PartTbl.StartSectorId = 0
+[2021/06/24 01:08:59.705] PartTbl.SectorCount = 0
+[2021/06/24 01:08:59.705] PartTbl.StartHead = 0
+[2021/06/24 01:08:59.705] PartTbl.StartSector = 0
+[2021/06/24 01:08:59.705] PartTbl.StartCylinder = 0
+[2021/06/24 01:08:59.705] PartTbl.EndHead = 0
+[2021/06/24 01:08:59.705] PartTbl.EndSector = 0
+[2021/06/24 01:08:59.705] PartTbl.EndCylinder = 0
+[2021/06/24 01:08:59.721] =========== Partition Table 4 ============
+[2021/06/24 01:08:59.721] PartTbl.Active = 0x0
+[2021/06/24 01:08:59.721] PartTbl.FsFlag = 0x0
+[2021/06/24 01:08:59.721] PartTbl.StartSectorId = 0
+[2021/06/24 01:08:59.721] PartTbl.SectorCount = 0
+[2021/06/24 01:08:59.721] PartTbl.StartHead = 0
+[2021/06/24 01:08:59.721] PartTbl.StartSector = 0
+[2021/06/24 01:08:59.721] PartTbl.StartCylinder = 0
+[2021/06/24 01:08:59.721] PartTbl.EndHead = 0
+[2021/06/24 01:08:59.721] PartTbl.EndSector = 0
+[2021/06/24 01:08:59.721] PartTbl.EndCylinder = 0
+[2021/06/24 01:08:59.721] PhysicalDrive2 is ventoy disk
+[2021/06/24 01:08:59.721] QueryDosDeviceA success \Device\Harddisk2\DR3
+[2021/06/24 01:08:59.721] [0] CreateFileA \\.\PhysicalDrive2 code:0 000000C8
+[2021/06/24 01:08:59.721] Parse FAT fs...
+[2021/06/24 01:08:59.721] attach media success...
+[2021/06/24 01:08:59.736] GetVentoyVerInPhyDrive rc=0...
+[2021/06/24 01:08:59.736] VentoyVerInPhyDrive 2 is <1.0.46>...
+[2021/06/24 01:08:59.736] PhyDrive 2 is Ventoy Disk ver:1.0.46 SecureBoot:0
+[2021/06/24 01:08:59.736] < WDC  WDS100T2B0B-00YS70> is filtered for not USB type.
+[2021/06/24 01:08:59.783] Load languages from json file ...
+[2021/06/24 01:08:59.783] language json file len:124841 json parse:0
+[2021/06/24 01:08:59.783] Total 37 languages ...
+[2021/06/24 01:08:59.814] Combox select change, update secure boot option: 0 0

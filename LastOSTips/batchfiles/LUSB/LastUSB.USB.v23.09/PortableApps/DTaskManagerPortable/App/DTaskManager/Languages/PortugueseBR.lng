@@ -1,0 +1,220 @@
+1 Arquivo
+2 Arquivo
+1 Nova tarefa (Executar ...)
+2 Novo processo (executar ...)
+1 Nova tarefa (Executar como usuário ...)
+2 Novo processo (executado como usuário ...)
+1 Saída
+2 Saída
+1 Opções
+2 Opções
+1 Defina o gerenciador de tarefas padrão
+2 Defina o gerenciador de tarefas padrão
+1 Gerenciador de tarefas do Windows
+2 Gerenciador de Tarefas do Windows
+1 Comece em uma área de trabalho separada (requer reinicialização)
+2 Execute em uma área de trabalho separada (requer reinicialização)
+1 Mostrar todas as janelas
+2 Mostrar todas as janelas
+1 Selecione as colunas ...
+2 Selecione Colunas ...
+1 Uso de CPU gráfica
+2 Exibição gráfica do uso da CPU
+1 Uso gráfico de MEM
+2 Display gráfico de uso de memória
+1 Ocultar IP de loopback
+2 Ocultar IPs de loopback
+1 Resolva endereços IP e serviços de porta
+2 Resolva endereços IP e serviços de porta
+1 Mostrar bytes trocados (requer pc rápido)
+2 Mostrar bytes trocados (requer um PC rápido)
+1 Salvar ao sair
+2 Salvar ao sair
+1 Vista
+2 Visualizações
+1 Sempre no topo
+2 Sempre no topo
+1 Janela transparente
+2 Janela transparente
+1 Mostrar na bandeja
+2 Mostrar na barra de tarefas
+1 Uso de CPU
+2 Uso de CPU
+1 Uso de mem
+2 Uso de RAM
+1 barra de bandeja numérica
+2 Ícone numérico na bandeja do sistema
+1 Desligamento
+2 Sair
+1 Estação de trabalho de bloqueio
+2 Blocos
+1 Suspender para RAM
+2 Suspender
+1 Logoff
+2 Desconectar
+1 Reinicialização
+2 Reiniciar
+1 Desligamento
+2 Desligue
+1 Força de desligamento
+2 Desligado à força
+1 Força de desligamento (difícil)
+2 Desligamento forçado (rígido)
+1 Ferramentas
+2 Ferramentas
+1 Auto gerenciamento de prioridade de processos
+2 Gerenciar automaticamente a prioridade do trabalho
+1 Bom conselho para variação de uso de CPU
+2 Aviso sonoro para mudanças no uso da CPU
+1 Ative as teclas de atalho (CTRL + ALT + BACKSPACE, CTRL + ALT + F8 ... F12)
+2 Ative os atalhos de teclado (CTRL + ALT + BACKSPACE, CTRL + ALT + F8 ... F12)
+1 Sobre
+2 ?
+1 Apoio com doação ...
+2 Apoie com uma doação ...
+1 Sobre Dtaskmanager
+2 Sobre Dtaskmanager
+1 Aplicativos
+2 Aplicativos
+1 Congelamento
+2 Pare
+1 Fim da Tarefa
+2 Processo de fechamento
+1 Vá para o processo
+2 Vá para o processo
+1 Mudar para
+2 Traga para a frente
+1 Nova tarefa
+2 Novo processo
+1 Processos
+2 Processos
+1 Tarefa suspensa
+2 Processo de suspensão
+1 Retomar tarefa
+2 Retomar o processo
+1 Encontre o arquivo de destino
+2 Encontre arquivos
+1 Tarefa de matar
+2 Fim do processo
+1 Kill Task Override
+2 Termina a força
+1 Apresentações
+2 Performance
+1 Histórico de uso de CPU
+2 Histórico de uso de CPU
+1 Histórico de uso de memória
+2 Histórico de uso de memória
+1 Detalhes do sistema
+2 Detalhes do sistema
+1 Uso de memória
+2 Usando memória
+1 Total
+2 No total
+1 Físico
+2 Física
+1 Memória Física
+2 memória física
+1 Instalado
+2 Instalados
+1 Disponível
+2 Disponíveis
+1 Cache do sistema
+2 Cache do sistema
+1 Comprometa memória de carga
+2 Memória virtual
+1 Atual
+2 Atuais
+1 Limite
+2 Limite
+1 Memória de kernel
+2 Memória de kernel
+1 Paginado
+2 Paginado
+1 Não paginado
+2 Não paginado
+1 Arquivo de paginação
+2 Arquivo de paginação
+1 Tamanho
+2 Tamanhos
+1 Uso
+2 Use
+1 Pico
+2 Picos
+1 Porta
+2 Portas
+1 Rede
+2 Rede
+1 Largura de banda
+2 Largura de banda
+1 Histórico de largura de banda
+2 Histórico de largura de banda
+1 Detalhes
+2 Detalhes
+1 Nome de PC
+2 Nome do PC
+1 Endereço IP
+2 Endereços IP
+1 Endereço MAC
+2 Endereços MAC
+1 Módulos de Usuário
+2 Módulos de usuário
+1 Visualização por módulos
+2 Ver por módulos
+1 Módulos do Kernel
+2 Módulos de kernel
+1 Mostrar Bytes
+2 Exibir bytes
+1 Encontre o arquivo de destino ...
+2 Encontre arquivos no disco ...
+1 Definir Prioridade
+2 Defina a prioridade
+1 Em tempo real
+2 Tempo real
+1 Alta
+2 Alto
+1 Acima do normal
+2 SupNormal
+1 Normal
+2 Normal
+1 Abaixo do normal
+2 InfNormal
+1 Baixo
+2 Baixo
+1 Baixo para todos os processos
+2 Abaixo de tudo
+1 Definir afinidade ...
+2 Definir afinidade ...
+1 Uso de trim RAM
+2 Economize memória
+1 Corte a RAM para todos os processos
+2 Economize memória em todos os processos
+1 Revelar todas as janelas
+2 Mostrar janelas ocultas
+1 Suspender
+2 Suspender
+1 Currículo
+2 Currículos
+1 Processo Final
+2 Fim do processo
+1 Árvore de Processo Final
+2 Concluir a estrutura do processo
+1 Sair do Processo
+2 Processo de fechamento
+1 Saia da árvore de processos
+2 Fechar a estrutura do processo
+1 Processo de matança
+2 Encerramento forçado do processo
+1 Árvore de Processo de Matar
+2 Término forçado da estrutura do processo
+1 Cancelamento do Processo de Eliminação
+2 Rescisão forçada com desvio de SO do processo
+1 Eliminar Substituição da Árvore de Processo
+2 Rescisão forçada com desvio SO da estrutura do processo
+1 Tarefa de matar (substituir)
+2 Forçar encerramento do processo
+1 Janela de exibição
+2 Mostrar janela
+1 Ocultar janela
+2 Ocultar janela
+1 Fechar conexão
+2 Fechar conexão

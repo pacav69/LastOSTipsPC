@@ -1,0 +1,220 @@
+1 File
+2 文件
+1 New task (Run...)
+2 新任务 (运行...)
+1 New task (Run as user...)
+2 新任务 (以用户身份运行...)
+1 Exit
+2 退出
+1 Options
+2 选项
+1 Set default Task Manager
+2 设置为默认任务管理器
+1 Windows TaskManager
+2 Windows任务管理器
+1 Start in Separate Desktop (requires restart)
+2 在单独桌面启动 (需要重启)
+1 Show all windows
+2 显示全部窗口
+1 Select columns...
+2 选择列...
+1 Graphical CPU usage
+2 GPU使用率
+1 Graphical MEM usage
+2 显存使用率
+1 Hide loopback IP 
+2 隐藏回送IP
+1 Resolve IP addresses and port services
+2 解析IP地址和端口服务
+1 Show bytes exchanged (requires fast pc)
+2 显示交换的字节(需要较快PC)
+1 Save on exit
+2 退出时保存
+1 View
+2 视图
+1 Always on top
+2 保持在顶部
+1 Transparent window
+2 窗口透明
+1 Show in traybar
+2 在任务栏显示
+1 CPU Usage
+2 CPU使用率
+1 Mem usage
+2 内存使用率
+1 Numeric tray bar
+2 数字式任务栏
+1 Shutdown
+2 关机
+1 Lock workstation
+2 锁定工作站
+1 Suspend to RAM
+2 挂起到内存
+1 Logoff
+2 注销
+1 Reboot 
+2 重启
+1 Shutdown
+2 关机
+1 Shutdown force
+2 强行关机
+1 Shutdown force (hard)
+2 强行关机 (困难时)
+1 Tools
+2 工具
+1 Auto manage priority of processes
+2 自动管理进程优先权
+1 Sound advise for variation of CPU usage
+2 CPU使用率变动时发声警示
+1 Enable hotkeys (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12)
+2 启用热键 (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12) 
+1 About
+2 关于
+1 Support with donation...
+2 捐助...
+1 About Dtaskmanager
+2 关于Dtaskmanager
+1 Applications
+2 应用程序
+1 Freeze
+2 冻结
+1 End Task
+2 结束任务
+1 Go to process
+2 转到进程
+1 Switch to
+2 切换到
+1 New Task
+2 新任务
+1 Processes
+2 进程
+1 Suspend task
+2 暂停任务
+1 Resume task
+2 继续任务
+1 Find target file
+2 查找目标文件
+1 Kill Task
+2 杀死任务
+1 Kill Task Override
+2 覆盖杀死任务
+1 Performances
+2 性能
+1 CPU usage history
+2 CPU使用率记录
+1 Memory usage history
+2 内存使用率记录
+1 System details
+2 系统详情
+1 Memory usage
+2 内存使用率
+1 Total
+2 总计
+1 Physical
+2 物理的
+1 Physical Memory
+2 物理内存
+1 Installed
+2 已安装
+1 Available
+2 可用
+1 System cache
+2 系统缓存
+1 Commit charge memory
+2 指定负载内存
+1 Current
+2 当前
+1 Limit
+2 限制
+1 Kernel memory
+2 内核内存
+1 Paged
+2 分页的
+1 Nonpaged
+2 未分页的
+1 Pagefile
+2 虚拟内存
+1 Size
+2 大小
+1 Usage
+2 使用率
+1 Peak
+2 最大值
+1 Ports
+2 端口
+1 Networking
+2 网络
+1 Bandwidth
+2 带宽
+1 Bandwith hystory
+2 带宽记录
+1 Details
+2 详情
+1 PC name
+2 计算机名
+1 IP address
+2 IP地址
+1 MAC Address
+2 MAC地址
+1 User Modules
+2 用户模块
+1 View by modules
+2 按模块查看
+1 Kernel Modules
+2 内核模块
+1 Show Bytes
+2 显示字节
+1 Find target file...
+2 查找目标文件...
+1 Set Priority
+2 设置优先权
+1 Realtime
+2 实时
+1 High
+2 偏高
+1 Above Normal
+2 高于正常的
+1 Normal
+2 正常的
+1 Below Normal
+2 低于正常的
+1 Low
+2 偏低
+1 Low To All Processes
+2 低于所有进程
+1 Set Affinity...
+2 设置关联...
+1 Trim RAM Usage
+2 降低内存使用率
+1 Trim RAM to all processes
+2 降低内存使用率到所有进程之下
+1 Reveal All Windows
+2 显示全部窗口
+1 Suspend
+2 挂起
+1 Resume
+2 继续
+1 End Process
+2 终止进程
+1 End Process Tree
+2 终止进程树
+1 Quit Process
+2 退出进程
+1 Quit Process Tree
+2 退出进程树
+1 Kill Process
+2 杀死进程
+1 Kill Process Tree
+2 杀死进程树
+1 Kill Process Override
+2 覆盖杀死进程
+1 Kill Process Tree Override
+2 覆盖杀死进程树 
+1 Kill Task (Override)
+2 杀死任务 (覆盖)
+1 Show Window
+2 显示窗口
+1 Hide Window
+2 隐藏窗口
+1 Close Connection
+2 关闭连接 

@@ -1,0 +1,7 @@
+
+##########################################################################
+# Disable your anti-virus' "Real-Time Scanning" option before you begin! #
+##########################################################################
+
+
+Open the MediCat_Installer.exe, and follow the interactive on-screen prompts to maske your MediCat USB stick.
